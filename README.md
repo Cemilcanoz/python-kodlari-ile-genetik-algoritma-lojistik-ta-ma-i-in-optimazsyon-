@@ -1,6 +1,7 @@
 # python-kodlari-ile-genetik-algoritma-lojistik-ta-ma-i-in-optimazsyon-
 bu ödev okulumda aldığım  "BLG 307 Yapay Zeka Sistemleri " için hazırlanmıştır 
 |-cemil can öz-|
+Collab bağlantısı:https://colab.research.google.com/drive/14WBLyNkpJYQXs_nYeKYJs5y-PVWqiPQh
 # Lojistik Rota Optimizasyonu - Genetik Algoritma
 
 Bu proje, bir lojistik firmasının yakıt tüketimini ve süreyi optimize etmek için **genetik algoritma** kullanır.
